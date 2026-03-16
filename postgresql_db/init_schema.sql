@@ -1,0 +1,5 @@
+\i '01_create_users_table.sql'
+\i '02_create_notes_table.sql'
+\i '03_create_tags_table.sql'
+\i '04_create_note_tags_table.sql'
+\i '05_create_user_settings_table.sql'
